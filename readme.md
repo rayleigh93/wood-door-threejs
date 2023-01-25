@@ -1,5 +1,7 @@
 # From Three.js Journey maked by Bruno Simon
 
+Check the project [here](https://nimble-stroopwafel-0b8154.netlify.app/)
+
 ## Setup
 
 Download [Node.js](https://nodejs.org/en/download/).
